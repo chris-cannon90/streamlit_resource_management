@@ -1,0 +1,5 @@
+venv/
+streamlit__resource_management.code-workspace
+.streamlit/secrets.toml
+# disable the pycache:
+backend/__pycache__/

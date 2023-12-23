@@ -1,0 +1,9 @@
+[server]
+# port = 8510
+maxUploadSize = 200
+
+[mapbox]
+token = ""
+
+[theme]
+base = "dark"
